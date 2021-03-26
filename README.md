@@ -3,5 +3,5 @@
 - backend: Django, Django Rest Framework
 - frontend: React, Redux
 
-- Leetcode account(In plan solve 1-10 problem everyday) - https://leetcode.com/Almazishe/
+- Leetcode account = https://leetcode.com/Almazishe/
 
