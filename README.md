@@ -1,5 +1,6 @@
 ### Hi everyone 👋
-- 📫 How to reach me: +7 (776) 168 8760
+- 📫 How to reach me: telegram@almazisheee
 - backend: Django, Django Rest Framework, FastAPI
+- bot: pyTelegramBotAPI, aiogram
 - frontend: React, Redux
 
